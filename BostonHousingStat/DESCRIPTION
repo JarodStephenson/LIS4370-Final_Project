@@ -1,0 +1,24 @@
+Package: BostonHousingStat
+Type: Package
+Title: Boston Housing Statistics and Correlation Analysis
+Version: 0.1.0
+Author: Jarod Stephenson <jarodstephenson.ds@gmail.com>
+Maintainer: Jarod Stephenson <jarodstephenson.ds@gmail.com>
+Description: This package performs statistical analysis on any specified variable in the
+  Boston Housing Dataset, correlation analysis that will rank the most significant variables
+  on medv, and generates three plots based on the most statistically significant variables 
+  on "medv" in the Boston Housing Dataset. This will help us to see how these variables affect 
+  the housing values.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Imports: 
+  MASS,
+  ggplot2,
+  dplyr,
+  tidyr
+RoxygenNote: 7.2.3
+Suggests:
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
