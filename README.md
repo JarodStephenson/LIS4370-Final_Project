@@ -14,5 +14,5 @@ The BostonMEDV() function uses correlation analysis to find the top 3 most stati
 
 The final function is boston_corr() which performs correlation analysis and ranks the correlation of all the variables in the Boston Housing Dataset in descending order of statistical significance against 'medv'.
 
-Link to my blog on this project:
+Link to my blog for this project:
 https://wordpress.com/view/lis4370rprogramming.wordpress.com
