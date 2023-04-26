@@ -13,3 +13,6 @@ The boston_stats() function returns summary statistics of any specified variable
 The BostonMEDV() function uses correlation analysis to find the top 3 most statistically significant variables on 'medv' based on their correlation coefficent and will then plot all three against 'medv'. 
 
 The final function is boston_corr() which performs correlation analysis and ranks the correlation of all the variables in the Boston Housing Dataset in descending order of statistical significance against 'medv'.
+
+Link to my blog on this project:
+https://wordpress.com/view/lis4370rprogramming.wordpress.com
